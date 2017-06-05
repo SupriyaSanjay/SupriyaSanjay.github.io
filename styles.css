@@ -1,6 +1,9 @@
+ul.a {
+	list-style-type: none;
+}
 body {
 	color:grey;
-	font-family: "Century Gothic";
+	font-family: "Tahoma", Geneva, sans-serif;
 	font-size: 16pt;
 }
 
