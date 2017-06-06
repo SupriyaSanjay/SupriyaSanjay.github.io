@@ -4,11 +4,22 @@ ul.a {
 body {
 	color:grey;
 	font-family: "Tahoma", Geneva, sans-serif;
-	font-size: 16pt;
+	font-size: 12pt;
 }
 
 h1 {
-	font-size: 18pt;
+	font-size: 16 pt;
+	letter-spacing: 3px;
+	color: black;
+	text-align: center;
+}
+
+h2 {
+	font-size: 14pt;
 	color:black;
+}
+
+h3 {
+	color: black;
 }
 
