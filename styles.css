@@ -5,6 +5,7 @@ body {
 	color:grey;
 	font-family: "Tahoma", Geneva, sans-serif;
 	font-size: 12pt;
+	padding: 0px;
 }
 
 h1 {
@@ -17,9 +18,12 @@ h1 {
 h2 {
 	font-size: 14pt;
 	color:black;
+	padding: 0px;
 }
 
 h3 {
 	color: black;
+	display: inline-block;
+	padding: 0px;
 }
 
